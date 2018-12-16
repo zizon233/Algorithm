@@ -1,2 +1,2 @@
-# Algorithm
-Algorithms
+# LCA-Algorithm
+LCA-Algorithms
